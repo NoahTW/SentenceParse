@@ -1,0 +1,7 @@
+C:\Users\forgi\Desktop\SentenceParse\bin\Debug\SentenceParse.exe.config
+C:\Users\forgi\Desktop\SentenceParse\bin\Debug\SentenceParse.exe
+C:\Users\forgi\Desktop\SentenceParse\bin\Debug\SentenceParse.pdb
+C:\Users\forgi\Desktop\SentenceParse\obj\Debug\SentenceParse.csprojAssemblyReference.cache
+C:\Users\forgi\Desktop\SentenceParse\obj\Debug\SentenceParse.csproj.CoreCompileInputs.cache
+C:\Users\forgi\Desktop\SentenceParse\obj\Debug\SentenceParse.exe
+C:\Users\forgi\Desktop\SentenceParse\obj\Debug\SentenceParse.pdb
